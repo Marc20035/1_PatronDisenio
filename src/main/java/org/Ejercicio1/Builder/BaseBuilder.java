@@ -1,6 +1,6 @@
-package org.example.Builder;
+package org.Ejercicio1.Builder;
 import java.util.List;
-import org.example.Products.Base;
+import org.Ejercicio1.Products.Base;
 public class BaseBuilder {
     protected String nombre;
     protected int numeroAmbulancias;

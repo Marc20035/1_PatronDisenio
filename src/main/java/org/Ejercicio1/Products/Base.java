@@ -1,6 +1,6 @@
-package org.example.Products;
+package org.Ejercicio1.Products;
 
-import org.example.Builder.BaseBuilder;
+import org.Ejercicio1.Builder.BaseBuilder;
 
 import java.util.List;
 

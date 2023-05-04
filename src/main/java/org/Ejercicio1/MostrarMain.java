@@ -1,8 +1,8 @@
-package org.example;
+package org.Ejercicio1;
 
-import org.example.Builder.BaseBuilder;
-import org.example.Director.BaseDirector;
-import org.example.Products.Base;
+import org.Ejercicio1.Builder.BaseBuilder;
+import org.Ejercicio1.Director.BaseDirector;
+import org.Ejercicio1.Products.Base;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package org.example.Director;
+package org.Ejercicio1.Director;
 
-import org.example.Builder.BaseBuilder;
-import org.example.Products.Base;
+import org.Ejercicio1.Builder.BaseBuilder;
+import org.Ejercicio1.Products.Base;
 
 public class BaseDirector {
     public Base createBase(BaseBuilder builder) {
