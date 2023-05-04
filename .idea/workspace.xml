@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36e1766c-4f19-4c52-bff2-d30e642c12f8" name="Changes" comment="Ininial">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Builder/BaseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Director/BaseDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MostrarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Products/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="36e1766c-4f19-4c52-bff2-d30e642c12f8" name="Changes" comment="Main">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/Componente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/ComponenteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/ComponenteFactoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/Ordenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio2/TecladoBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Builder/BaseBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio1/Builder/BaseBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Director/BaseDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio1/Director/BaseDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MostrarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio1/MostrarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Products/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Ejercicio1/Products/Base.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683218512355</updated>
-      <workItem from="1683218513528" duration="2944000" />
+      <workItem from="1683218513528" duration="4864000" />
     </task>
     <task id="LOCAL-00001" summary="Ininial">
       <created>1683218630891</created>
@@ -67,7 +72,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683218630891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Producto">
+      <created>1683221859932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683221859932</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Builder">
+      <created>1683221869716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683221869716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Director">
+      <created>1683221885421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683221885421</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Main">
+      <created>1683221894763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683221894763</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +119,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ininial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ininial" />
+    <MESSAGE value="Producto" />
+    <MESSAGE value="Builder" />
+    <MESSAGE value="Director" />
+    <MESSAGE value="Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main" />
   </component>
 </project>
